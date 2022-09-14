@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Idea2022.1.4连接Mysql数据库5.1并快捷创建实体类</title>
+      <link href="/2022/09/14/idea2022-1-4-lian-jie-mysql-shu-ju-ku-5-1-bing-kuai-jie-chuang-jian-shi-ti-lei/"/>
+      <url>/2022/09/14/idea2022-1-4-lian-jie-mysql-shu-ju-ku-5-1-bing-kuai-jie-chuang-jian-shi-ti-lei/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Idea2022-1-4连接MySQL数据库5-1并快捷创建实体类"><a href="#Idea2022-1-4连接MySQL数据库5-1并快捷创建实体类" class="headerlink" title="Idea2022-1-4连接MySQL数据库5-1并快捷创建实体类"></a>Idea2022-1-4连接MySQL数据库5-1并快捷创建实体类</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近学习用到了，在 <code>Idea</code> 中连接数据库，并且快捷创建实体类，中间发现了一个很重要的问题，就是 <code>Idea 2022.1.4</code> 他把创建实体类的按钮直接放在了别 <code>Tools</code> 里面，我花了将近一个小时才真正的找到，感谢我的老师。</p><p>过程中，我差点把自己的 <code>Idea</code> 给卸载了，但是因为配置了 <code>Tomcat</code> 就狠心继续往下找，功夫不负有心人，最后终于找到了。</p><h2 id="过程说明"><a href="#过程说明" class="headerlink" title="过程说明"></a>过程说明</h2><blockquote><ol><li>快捷生成实体类对象</li><li>选择要生成的文件夹</li></ol></blockquote><p><img src="/2022/09/14/idea2022-1-4-lian-jie-mysql-shu-ju-ku-5-1-bing-kuai-jie-chuang-jian-shi-ti-lei/%E5%BF%AB%E6%8D%B7%E7%94%9F%E6%88%90%E5%AE%9E%E4%BD%93%E7%B1%BB%E5%AF%B9%E8%B1%A1.png" alt="快捷生成实体类对象"></p><p><img src="/2022/09/14/idea2022-1-4-lian-jie-mysql-shu-ju-ku-5-1-bing-kuai-jie-chuang-jian-shi-ti-lei/%E9%80%89%E6%8B%A9%E8%A6%81%E7%94%9F%E6%88%90%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9.png" alt="选择要生成的文件夹"></p><p><img src="/2022/09/14/idea2022-1-4-lian-jie-mysql-shu-ju-ku-5-1-bing-kuai-jie-chuang-jian-shi-ti-lei/%E6%9B%B4%E6%94%B9%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE.png" alt="更改文件位置"></p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p><strong>过程省略很多, 但是已经有人写出更详细的教程, 链接如下</strong></p><p><a href="https://blog.csdn.net/m0_55913607/article/details/119644662?ops_request_misc=%7B%22request_id%22:%22166314957116782391836898%22,%22scm%22:%2220140713.130102334..%22%7D&request_id=166314957116782391836898&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-119644662-null-null.142%5Ev47%5Epc_rank_34_queryrelevant25,201%5Ev3%5Eadd_ask&utm_term=idea%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93&spm=1018.2226.3001.4187">idea 连接数据库详细教程（新手篇）2021版idea_勤俭节约的程序猿的博客-CSDN博客_idea2021连接数据库</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Use </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Idea 2022.1.4 </tag>
+            
+            <tag> MySQL 5.1 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>费曼学习法 学习笔记</title>
       <link href="/2022/08/10/fei-man-xue-xi-fa-xue-xi-bi-ji/"/>
       <url>/2022/08/10/fei-man-xue-xi-fa-xue-xi-bi-ji/</url>
